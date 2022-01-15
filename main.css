@@ -14,19 +14,19 @@ body {
   color: #333;
 }
 
-.wrapper {
+.Főrész2 {
   padding-top: 4rem;
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
 
-.quote {
+.második2 {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 2.5rem; 
 }
 
-.author {
+.harmadik2 {
   font-family: 'Crimson Text', serif;
   font-size: 1.5rem;
   font-style: italic;
